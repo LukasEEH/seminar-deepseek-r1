@@ -10,3 +10,9 @@ Link zur **Abschlusspräsentation**: [Final Presentation (.pdf)](deepseek-r1-fin
 Bei der Recherche wurden unterschiedliche weitere Papers und andere Ressourcen betrachtet. Einige dieser Ressourcen sind bei *further-reading* gesammelt.
 
 Link zu **Further Reading**: [Further Reading (.md)](further-reading.md)
+
+---
+
+Für die Demo wurde [Ollama](https://ollama.com/) verwendet. Anforderungen und Ablauf sind unter *ollama-example* Dokumentiert.
+
+Link zu **Ollama Example**: [Ollama Example (.md)](ollama-example.md)
