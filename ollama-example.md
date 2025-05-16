@@ -1,14 +1,18 @@
 # Ollama example
 
 **Was ist Ollama?**
+
 [Ollama](https://ollama.com) stellt eine Engine zur lokalen Ausführung von Quelloffenen LLMs bereit.
 
 **Wie kann ich Ollama installieren?**
+
 Um Ollama zu verwenden kann ein Downloader für die Engine über die entsprechende [Download Seite](https://ollama.com/download) heruntergeladen und installiert werden (verfügbar für MacOS, Linux, Windows)
 
 
 **Wie verwende ich ein Modell lokal mit Ollama?**
+
 Nach dem Download kann der Server mit `ollama serve` gestartet werden.
+
 Über `ollama` können die **verfügbaren Aktionen** abgefragt werden:
 
 ```
